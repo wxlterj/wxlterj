@@ -1,16 +1,29 @@
-## Hi there 👋
+# ¡Hola! Soy Walter Fernández 👋 
 
-<!--
-**wxlterj/wxlterj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desarrollador de software
+Me muevo entre el desarrollo **Mobile** y el ecosistema **Web**. Me apasiona construir aplicaciones que no solo funcionen, sino que resuelvan problemas reales con código limpio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mi Stack Tecnológico
+
+**Lenguajes** <p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,javascript,java,python" />
+</p>
+</p>
+
+**Web** <p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react" />
+</p>
+
+**Herramientas** <p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase,supabase,git" />
+</p>
+
+---
+
+### 📫 Contacto
+
+<a href="https://www.linkedin.com/in/walter-julian-fern%C3%A1ndez-gonz%C3%A1lez-9277a7252/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
