@@ -1,7 +1,11 @@
 # ¡Hola! Soy Walter Fernández 👋 
 
 ### 🚀 Desarrollador de software
-Me muevo entre el desarrollo **Mobile** y el ecosistema **Web**. Me apasiona construir aplicaciones que no solo funcionen, sino que resuelvan problemas reales con código limpio.
+**Estudiante de Ingeniería de Sistemas y Computación | Universidad Nacional de Colombia**
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wfernandezg/)
+
+Me muevo en el desarrollo **Mobile** y el ecosistema **Web**. Me apasiona construir aplicaciones que no solo funcionen, sino que resuelvan problemas reales mediante código limpio y soluciones escalables.
 
 ---
 
@@ -9,7 +13,6 @@ Me muevo entre el desarrollo **Mobile** y el ecosistema **Web**. Me apasiona con
 
 **Lenguajes** <p align="left">
   <img src="https://skillicons.dev/icons?i=kotlin,javascript,java,python" />
-</p>
 </p>
 
 **Web** <p align="left">
@@ -19,11 +22,3 @@ Me muevo entre el desarrollo **Mobile** y el ecosistema **Web**. Me apasiona con
 **Herramientas** <p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,firebase,supabase,git" />
 </p>
-
----
-
-### 📫 Contacto
-
-<a href="https://www.linkedin.com/in/wfernandezg/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
