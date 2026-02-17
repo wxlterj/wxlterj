@@ -24,6 +24,6 @@ Me muevo entre el desarrollo **Mobile** y el ecosistema **Web**. Me apasiona con
 
 ### 📫 Contacto
 
-<a href="https://www.linkedin.com/in/walter-julian-fern%C3%A1ndez-gonz%C3%A1lez-9277a7252/" target="_blank">
+<a href="https://www.linkedin.com/in/wfernandezg/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
